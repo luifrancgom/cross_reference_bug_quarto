@@ -1,0 +1,9 @@
+# Summary
+
+In summary, this book has no content whatsoever.
+
+@sec-introduction
+
+```{r}
+1 + 1
+```
