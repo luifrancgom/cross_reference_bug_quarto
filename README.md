@@ -1,1 +1,1 @@
-# cross_reference_bug_quarto
+# Cross reference bug quarto
